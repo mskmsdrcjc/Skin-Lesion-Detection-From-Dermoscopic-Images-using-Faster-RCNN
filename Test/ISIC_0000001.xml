@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bengin</folder>
+	<filename>ISIC_0000001.jpeg</filename>
+	<path>C:\Users\LENOVO\Desktop\Harish\Bengin\ISIC_0000001.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>207</ymin>
+			<xmax>497</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

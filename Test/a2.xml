@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>a (2).jpg</filename>
+	<path>C:\Users\harshita b\Downloads\archive\dataset\dataset\train\New folder\a (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vascular</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>65</ymin>
+			<xmax>433</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

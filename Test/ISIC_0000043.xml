@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Malignant</folder>
+	<filename>ISIC_0000043.jpeg</filename>
+	<path>C:\Users\LENOVO\Desktop\Harish\Malignant\ISIC_0000043.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Malignant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>105</ymin>
+			<xmax>600</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

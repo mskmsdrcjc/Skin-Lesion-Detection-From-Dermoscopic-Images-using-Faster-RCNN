@@ -1,0 +1,12 @@
+item {
+    id: 1
+    name: 'Malignant'
+}
+item {
+    id: 2
+    name: 'Benign'
+}
+item {
+    id: 3
+    name: 'Vascular'
+}
